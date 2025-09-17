@@ -28,7 +28,7 @@
     "@angular/localize": "^16.1.0-rc.0",
     "@angular/platform-browser": "^16.1.0-rc.0",
     "@angular/platform-browser-dynamic": "^16.1.0-rc.0",
-    "@angular/platform-server": "^16.1.0-rc.0",
+    "@angular/platform-server": "^18.2.14",
     "@angular/router": "^16.1.0-rc.0",
     "@angular/service-worker": "^16.1.0-rc.0",
     "@angular/upgrade": "^16.1.0-rc.0",
@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.1.0-rc.0",
-    "@angular/cli": "^16.1.0-rc.0",
+    "@angular/cli": "^17.0.0",
     "@angular/compiler-cli": "^16.1.0-rc.0",
     "@nguniversal/builders": "^16.1.0-rc.0",
     "@rollup/plugin-commonjs": "^25.0.0",
