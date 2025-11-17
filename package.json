@@ -47,7 +47,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@angular-devkit/build-angular": "16.2.0-next.0",
+    "@angular-devkit/build-angular": "18.0.5",
     "@angular-devkit/core": "16.2.0-next.0",
     "@angular-devkit/schematics": "16.2.0-next.0",
     "@angular/cdk": "16.2.0-next.2",
@@ -176,7 +176,7 @@
     "cldrjs": "0.5.5",
     "conventional-changelog": "^3.1.24",
     "fast-glob": "3.2.12",
-    "firebase-tools": "^12.0.0",
+    "firebase-tools": "^13.7.3",
     "glob": "8.1.0",
     "gulp": "^4.0.2",
     "gulp-conventional-changelog": "^3.0.0",
